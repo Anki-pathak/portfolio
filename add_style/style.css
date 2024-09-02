@@ -1,0 +1,23 @@
+
+.Box{
+    height: 200px;
+    width: 100px;
+    border: 2px solid black;
+    color: rgb(0, 0, 255);
+    background-color: orange;
+    font-size: large;
+    font-style: italic;
+    margin: 10px;
+    padding: 15%;
+    text-align: center;
+    box-sizing: border-box;
+}
+#org{
+    background-color: orange;
+}
+#wht{
+    background-color: white;
+}
+#grn{
+    background-color: green;
+}
